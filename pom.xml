@@ -39,4 +39,12 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>artifactory.volnenko.ru</id>
+            <name>artifactory.volnenko.ru</name>
+            <url>http://artifactory.volnenko.ru/artifactory/list/public/</url>
+        </repository>
+    </repositories>
+
 </project>
